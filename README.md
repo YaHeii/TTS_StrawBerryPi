@@ -1,3 +1,1 @@
-# TTS_StrawBerryPi
-
-Generated with https://github.com/zmrlft/GreenWall.
+内置了snowboy预训练模型，配置百度语音API可搭载在树莓派3B+上进行对话
